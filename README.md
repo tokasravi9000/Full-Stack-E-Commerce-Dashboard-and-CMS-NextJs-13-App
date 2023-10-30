@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Project Description
+
+we will put a special emphasis on the Next.js 13 App Router, which is the latest addition to the Next.js framework.
+
+The Next.js 13 App Router is a powerful tool that enables you to easily create complex client-side routing in your Next.js applications. In this tutorial, we will use the Next.js 13 App Router to build a fully functional E-Commerce with Admin Dashboard with seamless navigation and user experience.
+
+Throughout this video, we will guide you step-by-step through the process of building a full-stack web application using the latest web development technologies including React, Tailwind, Prisma, MongoDB, and NextAuth.
+
+This video is perfect for beginner and experienced developers who are looking to learn how to leverage the power of Next.js 13 App Router in their web applications. So, grab your coffee and join us on this exciting journey of building the next big thing in 2023 with Next.js 13 App Router!
+
+## Project Progress
+1. Environment setup (Admin) and Clerk Authentication (Admin)
