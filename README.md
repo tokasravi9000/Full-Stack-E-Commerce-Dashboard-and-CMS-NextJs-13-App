@@ -49,3 +49,4 @@ This video is perfect for beginner and experienced developers who are looking to
 ## Project Progress
 1. Environment setup (Admin) and Clerk Authentication (Admin)
 2. Modal components (Admin)
+3. Form components (Admin), Prisma, PlanetScale, MySQL setup (Admin), Dashboard setup (Admin), Navigation bar (Admin), Settings page (Admin)
